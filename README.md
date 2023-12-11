@@ -6,15 +6,6 @@ That's all I got for now.</br>
 </br>
 This is still in early development. Thus, it's pretty much still Droog71's Moontest. It will be developed into the new project sooner or later though, don't worry. For now, though, most things haven't really gone past the early stages.</br>
 </br>
-As a resident engineer, you must manage life support systems and</br>
-mining equipment to ensure your income is adequate for survival.</br>
-</br>
-Expenses are deducted from your balance at regular intervals and</br>
-are increased based on the total amount of ore you have mined.</br>
-</br>
-Moontest is playable in both single player and multiplayer game modes.</br>
-</br>
-</br>
 <h2>Gameplay</h2>
 <img src="https://i.imgur.com/C8vUbjb.png">
 This is your <b>nuclear reactor</b>, the power source for your habitat.</br>
