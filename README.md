@@ -1,8 +1,10 @@
-Moontest: _Moon Habitat Simulator_
+A Day in the Extraterrestrial Life
 ==================================
 <h2>Introduction</h2>
-You are a prospector on a newly discovered moon.</br>
-Your habitat has been constructed and your mining systems are operational.</br>
+You live your life on another world.</br>
+That's all I got for now.</br>
+</br>
+This is still in early development. Thus, it's pretty much still Droog71's Moontest. It will be developed into the new project sooner or later though, don't worry. For now, though, most things haven't really gone past the early stages.</br>
 </br>
 As a resident engineer, you must manage life support systems and</br>
 mining equipment to ensure your income is adequate for survival.</br>
